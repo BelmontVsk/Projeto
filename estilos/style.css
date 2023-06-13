@@ -178,7 +178,7 @@ aside ul{
     list-style-position: inside;
     list-style: '\2714\0020';
     columns: 2;
-    padding: 10px 16px;
+    padding: 5px 5px 5px 10px;
 }
 footer{
     background-color: var(--cor5);
