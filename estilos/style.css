@@ -40,7 +40,7 @@ header{
     background-image: linear-gradient(to bottom, var(--cor3) , var(--cor5));
     text-align: center;
     min-height: 150px;
-    padding-top: 30px;
+    padding-top: 20px;
 }
 header > h1{
     color: var(--white);
@@ -72,6 +72,7 @@ nav > a{
     font-weight: bold;
     transition-duration: 0.5s;
     border-radius: 5px;
+    text-align: justify;
 
 }
 nav a:hover{
@@ -177,7 +178,7 @@ aside h3{
 
 aside ul{
     list-style-position: inside;
-    list-style: '\2714\00A0\00A0';
+    list-style: '\2714\0020\0020';
     columns: 2;
     padding: 0px 20px;
 }
