@@ -154,7 +154,6 @@ div.video{
     position: relative;
 }
 div.video > iframe{
-
     position: absolute;
     top: 5%;
     left: 5%;
@@ -173,14 +172,13 @@ aside h3{
     padding: 10px;
     border-radius: 10px 10px 0px 0px;
     margin: -10px -10px 0px -10px;
-
 }
 
 aside ul{
     list-style-position: inside;
     list-style: '\2714\0020\0020';
     columns: 2;
-    padding: 0px 20px;
+    padding: 10px 20px;
 }
 footer{
     background-color: var(--cor5);
